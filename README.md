@@ -5,4 +5,4 @@
 Molly Nguyen, Ava Rose, Alex Trott
 
 ## Background:
-even smaller but highlighted text
+even smaller but highlighted text (wtf does that mean, Jeffery)
