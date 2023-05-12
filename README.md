@@ -19,6 +19,6 @@ Figure 1: Gut microbiome composition in subjects who did not recieve an FMT (con
 <img width="1435" alt="Screenshot 2023-05-12 at 13 32 46" src="https://github.com/atrott811/AMA-Fecal-Transplant/assets/130576641/1108be53-2955-4b7f-89c6-ec9c8835e4f0">
 Figure 2: Gut microbiome composition in subjects who recieved an FMT (treatment group. Graph was made with Qiime2View from the dataset downloaded from the Qiime FMT tutorial (Kang et al. study).  
 
-
+##Interpretation Of The Data
 
 Overall, a more complex gut microbiome was found in subjects who recieved an FMT (treatment) than those who did not (control). This data is still hard to interpret, as the microbiome composition data before treatment is not shown. Assuming that the gut microbiome compositions of the treatment group before recieving the FMT are similar to those of the control group, it can be assumed that the FMTs were successful in increasing the microbiome's diversity. 
