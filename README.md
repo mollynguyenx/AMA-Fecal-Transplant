@@ -11,16 +11,16 @@ We were interested in the study conducted by Kang et al. in 2017 on fecal microb
 Metabarcoding sequences were downloaded from Kang et al. 2017 study of Microbiota Transplant Therapy.
 We used VScode loaded with the conda environment on the RON computing cluster connected to github
 Thr files were in fastq, and new directories were made to hold the project files.
-# FASTQ Sample
+**FASTQ Sample**
 - fastp was run to trim poly-g tails
 - The poly-Gtrimmed FASTQ files were imported into a qiime file. This command was run twice for the demux 1 and demux 2 directory
 - cutadapt was used to remove primers and adapters.
 - demux was run to make a file to view
   - The primer sequence is TACGTATGGTGCA
-Denoising
+**Denoising**
 - conda qiime environment was activated
 - run to remoce low quality reads and bases
-Taxonomy
+**Taxonomy**
 - rep-seqs and tables are merged
 - taxonomy is then assigned and classified
 
