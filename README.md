@@ -21,7 +21,7 @@ The files were in fastq, and new directories were made to hold the project files
   
 **Denoising**
 - conda qiime environment was activated
-- run to remoce low quality reads and bases
+- run to remove low quality reads and bases
 
 **Taxonomy**
 - rep-seqs and tables are merged
