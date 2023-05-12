@@ -18,11 +18,10 @@ The files were in fastq, and new directories were made to hold the project files
 - cutadapt was used to remove primers and adapters.
 - demux was run to make a file to view
   - The primer sequence is TACGTATGGTGCA
-  -
+  
 **Denoising**
 - conda qiime environment was activated
 - run to remoce low quality reads and bases
-
 
 **Taxonomy**
 - rep-seqs and tables are merged
