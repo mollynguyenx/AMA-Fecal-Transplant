@@ -6,3 +6,9 @@ Molly Nguyen, Ava Rose, Alex Trott
 
 ## Background:
 even smaller but highlighted text (wtf does that mean, Jeffery)
+
+## Methods: 
+methods stuff (woohoo!)
+
+## Findings: 
+figures!
